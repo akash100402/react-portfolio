@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Marketplace Website",
+      "imageSrc": "projects/mern.jpg",
+      "description": "A fully dynamic Reselling Web Application in MERN stack technology.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Smart Attendance",
+      "imageSrc": "projects/ml.jpg",
+      "description": "An automated online attendance system using face recognition in ML.",
+      "skills": ["Python", "Firebase","ML"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

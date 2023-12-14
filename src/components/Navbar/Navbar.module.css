@@ -1,0 +1,89 @@
+@import "../../vars.css";
+
+.navbar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 61px;
+    z-index: 2;
+    margin: 0 10%;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+.menu{
+    display: flex;
+
+}
+.menuBtn{
+    display: none;
+}
+
+.menuItems{
+    display: flex;
+    gap: 47px;
+    list-style: none;
+}
+
+.menuItems a{
+    font-size: 25px;
+    color: var(--color-text);
+    text-decoration: none;
+}
+.menu ul li::after {
+    content:'';
+	height:2px;
+    width: 100%;
+	background: #414141;
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	transition: 0.5s;
+  }
+  
+
+
+
+@media screen and (max-width:830px) {
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .menu{
+        position: absolute;
+        right: 0;
+        margin-right: 10%;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 11px;
+        z-index: 3;
+    }
+
+    .menuItems{
+        display: none;
+        border-radius: 10px;
+        background: rgb(25, 55, 109);
+        background: linear-gradient(0deg, rgb(25, 55, 109, 0.2) 0%,rgb(25, 55, 109, 1) 100%);
+        flex-direction: column;
+        align-items: center;
+        gap: 13px;
+        padding: 24px 33px;
+        box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    }
+
+    .menuBtn{
+        display: block;
+        cursor: pointer;
+    }
+    .menuOpen{
+        display: flex;
+        z-index: 1;
+    }
+}
