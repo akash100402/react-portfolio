@@ -2,25 +2,25 @@
     {
       "title": "Marketplace Website",
       "imageSrc": "projects/mern.jpg",
-      "description": "A fully dynamic Reselling Web Application in MERN stack technology.",
+      "description": "A fully dynamic Reselling Web Application with messaging system between seller & buyer in MERN stack technology.",
       "skills": ["React", "Express", "Node", "MongoDB"],
       "demo": "https://e-z-sell.onrender.com/",
-      "source": "https://e-z-sell.onrender.com/"
+      "source": "https://github.com/akash100402/E-Z-Sell"
     },
     {
       "title": "Smart Attendance",
       "imageSrc": "projects/ml.jpg",
-      "description": "An automated online attendance system using face recognition in ML.",
+      "description": "An automated online attendance system using face recognition in Machine Learning using Python.",
       "skills": ["Python", "Firebase","ML"],
-      "demo": "https://www.example.com",
+      "demo": "#",
       "source": "https://github.com/akash100402/Smart-Attendance"
     },
     {
-      "title": "Tune-Chat",
+      "title": "Project Tracker",
       "imageSrc": "projects/mern.jpg",
-      "description": "A fully dynamic & Responsive Chatting Web App in MERN stack.",
+      "description": "This platform enables clients to monitor the status of their projects and request alterations if needed.",
       "skills": ["React", "Express", "Node", "MongoDB"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://dag-technologies.onrender.com",
+      "source": "https://github.com/akash100402/Dag-Tech"
     }
   ]

@@ -6,6 +6,14 @@
       "endDate": "Oct, 2023",
       "experiences": ["React js","Node js"],
       "imageSrc": "history/lyft-logo.png"
+    },
+    {
+      "role": "Fullstack Developer",
+      "organisation": "Dag Technologies",
+      "startDate": "Feb, 2024",
+      "endDate": "April, 2024",
+      "experiences": ["React js", "Node js"],
+      "imageSrc": ""
     }
     
    

@@ -8,7 +8,7 @@ export const Hero = () => {
     window.open(myResume, '_blank');
   };
 
-  const roles = ['Fullstack Developer', 'UI Designer'];
+  const roles = ['Fullstack Developer', 'Python Developer'];
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
   const [currentRoleText, setCurrentRoleText] = useState('');
   const [isTyping, setIsTyping] = useState(true);
