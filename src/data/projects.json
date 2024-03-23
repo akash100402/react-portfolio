@@ -4,8 +4,8 @@
       "imageSrc": "projects/mern.jpg",
       "description": "A fully dynamic Reselling Web Application in MERN stack technology.",
       "skills": ["React", "Express", "Node", "MongoDB"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://e-z-sell.onrender.com/",
+      "source": "https://e-z-sell.onrender.com/"
     },
     {
       "title": "Smart Attendance",
@@ -13,13 +13,13 @@
       "description": "An automated online attendance system using face recognition in ML.",
       "skills": ["Python", "Firebase","ML"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/akash100402/Smart-Attendance"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Tune-Chat",
+      "imageSrc": "projects/mern.jpg",
+      "description": "A fully dynamic & Responsive Chatting Web App in MERN stack.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
