@@ -1,7 +1,7 @@
 [
     {
       "title": "Marketplace Website",
-      "imageSrc": "projects/mern.jpg",
+      "imageSrc": "projects/ez.png",
       "description": "A fully dynamic Reselling Web Application with messaging system between seller & buyer in MERN stack technology.",
       "skills": ["React", "Express", "Node", "MongoDB"],
       "demo": "https://e-z-sell.onrender.com/",
@@ -9,7 +9,7 @@
     },
     {
       "title": "Smart Attendance",
-      "imageSrc": "projects/ml.jpg",
+      "imageSrc": "projects/smart_att.png",
       "description": "An automated online attendance system using face recognition in Machine Learning using Python.",
       "skills": ["Python", "Firebase","ML"],
       "demo": "#",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Project Tracker",
-      "imageSrc": "projects/mern.jpg",
+      "imageSrc": "projects/dag.png",
       "description": "This platform enables clients to monitor the status of their projects and request alterations if needed.",
       "skills": ["React", "Express", "Node", "MongoDB"],
       "demo": "https://dag-technologies.onrender.com",
